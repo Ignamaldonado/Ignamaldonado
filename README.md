@@ -11,8 +11,9 @@ const ignamaldonado = {
   tools: [ "visual-studio-code", "git", "firebase", "wordpress" ],
   languages: [ "spanish", "english" ],
   learning: [ "javascript" , "python" ]
+  }
   ```
-}
+
 <!--
 **Ignamaldonado/Ignamaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
