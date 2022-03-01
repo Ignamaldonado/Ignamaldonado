@@ -7,8 +7,8 @@ Or maybe you can call me nacho, I'm a future developer learning fullstack at the
 ```javascript
 const ignamaldonado = {
   me: [ "engineer-student", "antique-shop-owner", "future-developer" ],
-  code: [ "html", "python"],
-  tools: [ "visual-studio-code", "git", "firebase", "wordpress" ],
+  code: [ "html"],
+  tools: [ "visual-studio-code", "git"],
   languages: [ "spanish", "english" ],
   learning: [ "javascript" , "python" ]
   }
