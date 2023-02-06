@@ -6,11 +6,11 @@ Or maybe you can call me nacho, I'm a future developer learning fullstack at the
 
 ```javascript
 const ignamaldonado = {
-  me: [ "engineer-student", "antique-shop-owner", "future-developer" ],
-  code: [ "html", "css", "tailwindcss", "javascript", "sql", "react", "nextjs"],
-  tools: [ "visual-studio-code", "git", "postman", "dbeaver", "node.js", "strapi"],
-  languages: [ "spanish", "english" ],
-  learning: [ "python", "redux" ]
+  me: [ "engineer-student", "antique-shop-owner", "developer" ],
+  code: [ "HTML", "CSS", "JavaScript", "TypeScript", "Java", "C++", "NodeJS", "Express", "MySQL", "MongoDB" ,"React", "Redux", "NextJS"],
+  tools: [ "Visual-Studio-Code", "GIT", "Postman", "DBeaver", "Strapi"],
+  languages: [ "Spanish", "English" ],
+  learning: [ "Spring-Boot" ]
   }
   ```
 
