@@ -1,6 +1,6 @@
 ### Hi there, I'm Ignacio 👋
 
-Or maybe you can call me nacho, I'm a future developer learning fullstack at the moment.
+Or maybe you can call me nacho, I'm a TS/JS fullstack web developer learning spring-boot at the moment!.
 
 ### About Me
 
