@@ -7,10 +7,10 @@ Or maybe you can call me nacho, I'm a TS/JS fullstack web developer learning spr
 ```javascript
 const ignamaldonado = {
   me: [ "engineer-student", "antique-shop-owner", "developer" ],
-  code: [ "HTML", "CSS", "JavaScript", "TypeScript", "Java", "C++", "NodeJS", "Express", "MySQL", "MongoDB" ,"React", "Redux", "NextJS"],
+  code: [ "HTML", "CSS", "JavaScript", "TypeScript", "C++", "NodeJS", "Express", "MySQL", "MongoDB" ,"React", "Redux", "NextJS"],
   tools: [ "Visual-Studio-Code", "GIT", "Postman", "DBeaver", "Strapi"],
   languages: [ "Spanish", "English" ],
-  learning: [ "Spring-Boot" ]
+  learning: [ "Java", "Spring-Boot" ]
   }
   ```
 
